@@ -235,6 +235,7 @@
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Core\Interfaces\IScene.cs" />
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Tags\Tag.cs" />
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Input\MInput.cs" />
+    <Compile Include="Assets\UnderwaterEffect.cs" />
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Animal Controller\Reactions\ModeReaction.cs" />
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Stats\StatElement.cs" />
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Utilities\Mesh\MaterialLerp.cs" />
@@ -246,6 +247,7 @@
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Weapons\Scripts\Holsters.cs" />
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Animal Controller\States\Jump.cs" />
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Scriptables\CapsuleColliderPreset.cs" />
+    <Compile Include="Assets\Scripts\lever.cs" />
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Animal Controller\AI Brain\MTask.cs" />
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Scriptables\RunTime Collections\AudioClipCollection.cs" />
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Damage\RuntimeDamageableSet.cs" />
@@ -372,6 +374,7 @@
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Core\ScriptableCoroutine.cs" />
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Scriptables\ResetScriptableVars.cs" />
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Weapons\Scripts\MShootable.cs" />
+    <Compile Include="Assets\Scripts\FloodManager.cs" />
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Animal Controller\AI Brain\Tasks\SetTargetTask.cs" />
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Damage\MDamager.cs" />
     <Compile Include="Assets\Other\Controller\Malbers Animations\Common\Scripts\Behaviors\LayersBehavior.cs" />

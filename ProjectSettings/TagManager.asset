@@ -5,8 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Animal
-  - Damage
-  - DamageZone
+  - leverscript
   layers:
   - Default
   - TransparentFX

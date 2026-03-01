@@ -701,12 +701,15 @@
 "Assets/Other/fx/Scripts/ETFXRotation.cs"
 "Assets/Other/Scripts/anim.cs"
 "Assets/Other/Scripts/DialogSystems.cs"
+"Assets/Scripts/FloodManager.cs"
 "Assets/Scripts/GameOverScript.cs"
+"Assets/Scripts/lever.cs"
 "Assets/Scripts/MoveRotate.cs"
 "Assets/Scripts/ObjectSpawner.cs"
 "Assets/Scripts/PlayerInfo.cs"
 "Assets/Scripts/Timer.cs"
 "Assets/Scripts/YouWinScript.cs"
+"Assets/UnderwaterEffect.cs"
 "Assets/water/Water/TasharenWater.cs"
 -langversion:9.0
 /deterministic

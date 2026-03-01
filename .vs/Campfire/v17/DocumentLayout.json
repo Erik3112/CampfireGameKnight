@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Erik\\Campfire\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erik\\Campfire\\Assets\\water\\Water\\Tasharen Water.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\water\\Water\\Tasharen Water.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erik\\Campfire\\Assets\\Scripts\\PlayerInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Tasharen Water.shader",
+              "DocumentMoniker": "C:\\Users\\Erik\\Campfire\\Assets\\water\\Water\\Tasharen Water.shader",
+              "RelativeDocumentMoniker": "Assets\\water\\Water\\Tasharen Water.shader",
+              "ToolTip": "C:\\Users\\Erik\\Campfire\\Assets\\water\\Water\\Tasharen Water.shader",
+              "RelativeToolTip": "Assets\\water\\Water\\Tasharen Water.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-01T11:44:17.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerInfo.cs",
               "DocumentMoniker": "C:\\Users\\Erik\\Campfire\\Assets\\Scripts\\PlayerInfo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInfo.cs",
               "ToolTip": "C:\\Users\\Erik\\Campfire\\Assets\\Scripts\\PlayerInfo.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerInfo.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAEoAAAAmAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T12:08:29.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-28T12:08:29.559Z"
             }
           ]
         }
