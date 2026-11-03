@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Animal
   - leverscript
+  - MoveRotate
+  - Money
   layers:
   - Default
   - TransparentFX

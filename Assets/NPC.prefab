@@ -959,7 +959,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bbcc6a67852b4a9bb008afbcc6c23d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  npcAnim: {fileID: 0}
+  npcAnim: {fileID: 3695992362475820352}
 --- !u!1 &2963739590558283712
 GameObject:
   m_ObjectHideFlags: 0
